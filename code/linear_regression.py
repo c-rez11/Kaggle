@@ -1,0 +1,1 @@
+# Housing prices in Ames, IA
